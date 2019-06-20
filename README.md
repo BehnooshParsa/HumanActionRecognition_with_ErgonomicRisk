@@ -1,6 +1,6 @@
 # Human Action Recognition and Ergonomic Risk Assessment 
 
-This is a step by step implementation of the method we used for human action recognition and ergonomic risk assessement in "Toward Ergonomic Risk Prediction via Segmentation of Indoor Object Manipulation Actions Using Spatiotemporal Convolutional Networks" paper that is accepted to the [CASE conference 2019](https://www.ieee-ras.org/component/rseventspro/event/1488-case-2019-international-conference-on-automation-science-and-engineering) and the IEEE Robotics and Automation Letter.
+This is a step by step implementation of the method we used for human action recognition and ergonomic risk assessement in "Toward Ergonomic Risk Prediction via Segmentation of Indoor Object Manipulation Actions Using Spatiotemporal Convolutional Networks" paper that is accepted to the [CASE conference 2019](https://www.ieee-ras.org/component/rseventspro/event/1488-case-2019-international-conference-on-automation-science-and-engineering) and the IEEE Robotics and Automation Letters.
 
 ### Dataset
 
