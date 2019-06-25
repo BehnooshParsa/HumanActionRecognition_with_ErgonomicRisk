@@ -4,7 +4,7 @@ This is a step by step implementation of the method we used for human action rec
 
 ### Dataset
 
-The UW-IOM dataset can be found [here](https://data.mendeley.com/datasets/xwzzkxtf9s/draft?a=c81c8954-6cad-4888-9bec-6e7e09782a01).
+The UW-IOM dataset can be found [here](http://dx.doi.org/10.17632/xwzzkxtf9s).
 
 The TUM Kitchen dataset can be found [here](https://ias.in.tum.de/dokuwiki/software/kitchen-activity-data).
 
