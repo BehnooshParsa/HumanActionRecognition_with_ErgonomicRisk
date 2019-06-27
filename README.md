@@ -6,7 +6,7 @@ This is a step by step implementation of the method we used for human action rec
 
 The UW-IOM dataset can be found [here](https://data.mendeley.com/datasets/xwzzkxtf9s/1).
 
-The TUM Kitchen dataset can be found [here](https://ias.in.tum.de/dokuwiki/software/kitchen-activity-data).
+The TUM Kitchen dataset can be found [here](https://ias.in.tum.de/dokuwiki/software/kitchen-activity-data). We relabeled the dataset, and labels can be dounloaded in this repository under the folder "Labels_TUM".
 
 ### Requirements
 
